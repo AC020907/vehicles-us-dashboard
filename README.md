@@ -1,4 +1,4 @@
-# 🚗 Análisis de Anuncios de Venta de Vehículos en EE. UU.
+#  Análisis de Anuncios de Venta de Vehículos en EE. UU.
 
 ## Descripción del proyecto
 
