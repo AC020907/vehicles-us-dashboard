@@ -63,5 +63,5 @@ Esta aplicación web interactiva permite explorar y visualizar un conjunto de da
 La aplicación está desplegada en [Render](https://render.com) y es accesible de forma pública en: 
 
 ```
-[https://<APP_NAME>.onrender.com](https://vehicles-us-analysis-t2ry.onrender.com)
+https://vehicles-us-analysis-t2ry.onrender.com
 ```
