@@ -65,3 +65,7 @@ La aplicación está desplegada en [Render](https://render.com) y es accesible d
 ```
 https://vehicles-us-analysis-t2ry.onrender.com
 ```
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
